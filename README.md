@@ -1,2 +1,1 @@
-# QUICKSELL_amansingh
-Quicksell
+# Quicksell_frontend
